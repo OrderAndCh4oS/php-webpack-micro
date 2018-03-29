@@ -1,0 +1,16 @@
+{
+    "name": "oacc/php-webpack-micro",
+    "description": "Micro setup for webpack/php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sarcoma",
+            "email": "sarcoma@live.co.uk"
+        }
+    ],
+    "require": {
+    },
+    "require-dev": {
+        "fzaninotto/faker": "^1.7"
+    }
+}
